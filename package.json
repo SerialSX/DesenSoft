@@ -1,0 +1,23 @@
+{
+  "name": "desensoftnuv",
+  "version": "1.0.0",
+  "description": "ArquivoAula",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Arthur",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerialSX/DesenSoft.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SerialSX/DesenSoft/issues"
+  },
+  "homepage": "https://github.com/SerialSX/DesenSoft#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
